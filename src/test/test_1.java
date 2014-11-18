@@ -6,6 +6,10 @@ public class test_1 {
 //Änderung 1
 
 		System.out.println("Hallo Leute");
+	
+//Änderung 2
+		
+		System.out.println("Hallo Ihr da");
 		
 	}
 
